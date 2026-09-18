@@ -1,0 +1,23 @@
+{
+  "name": "bank_git_hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surendran-git/Bank_git_hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/surendran-git/Bank_git_hub/issues"
+  },
+  "homepage": "https://github.com/surendran-git/Bank_git_hub#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.1"
+  }
+}
